@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MergeProjectNew", "MergeProjectNew.vcxproj", "{683FEB80-E569-458A-B461-F266E886F1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|ARM.ActiveCfg = Debug|ARM
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|ARM.Build.0 = Debug|ARM
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|ARM.Deploy.0 = Debug|ARM
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|x64.ActiveCfg = Debug|x64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|x64.Build.0 = Debug|x64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|x64.Deploy.0 = Debug|x64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|x86.ActiveCfg = Debug|x86
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|x86.Build.0 = Debug|x86
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Debug|x86.Deploy.0 = Debug|x86
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|ARM.ActiveCfg = Release|ARM
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|ARM.Build.0 = Release|ARM
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|ARM.Deploy.0 = Release|ARM
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|ARM64.Build.0 = Release|ARM64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|ARM64.Deploy.0 = Release|ARM64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|x64.ActiveCfg = Release|x64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|x64.Build.0 = Release|x64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|x64.Deploy.0 = Release|x64
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|x86.ActiveCfg = Release|x86
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|x86.Build.0 = Release|x86
+		{683FEB80-E569-458A-B461-F266E886F1AB}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829F2885-0EE4-492D-8EB6-28FFCCA7E684}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chenyubiao.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MergeProjectNew.vcxproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
