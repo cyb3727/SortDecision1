@@ -8,4 +8,4 @@ This project's environment is Visual Studio 2019 with remote linux as running pl
 
 #Step3: Compile the project. Before running, please prepare the data to be sorted and set its path in main.cpp.
 ## Directory Description
-SortDecision.h and SortDecision.cpp is the kernal code of this project. template_
+SortDecision.h and SortDecision.cpp is the kernal code of this project.
