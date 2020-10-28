@@ -4,7 +4,7 @@ This project's environment is Visual Studio 2019 with remote linux as running pl
 ## Get Started
 #Step1: Open the project file MergeProjectNew.sln to start.
 
-#Step2: Prepare a remote linux serve. First, Install the boost library and libaio library. Then configure its remote connection in Visual Studio 2019. "Tools"->"Options"->"Cross platform"->"Add".
+#Step2: Prepare a remote linux server. First, Install the boost library and libaio library. Then configure its remote connection in Visual Studio 2019. "Tools"->"Options"->"Cross platform"->"Add".
 
 #Step3: Compile the project. Before running, please prepare the data to be sorted and set its path in main.cpp.
 ## Directory Description
